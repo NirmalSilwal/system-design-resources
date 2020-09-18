@@ -12,19 +12,66 @@ As you might know that we need to have good understanding of various Computer Sc
 
 Let's first learn **Basic Concepts**  for *designing higly scalable data intensive applications*.
 
-- [Caching](https://www.educative.io/courses/grokking-the-system-design-interview/3j6NnJrpp5p)
-- [Data Partitioning](https://www.educative.io/courses/grokking-the-system-design-interview/mEN8lJXV1LA)
-- [Consistent Hashing](https://www.educative.io/courses/grokking-the-system-design-interview/B81vnyp0GpY)
-- [Load Balancing](https://www.educative.io/courses/grokking-the-system-design-interview/3jEwl04BL7Q)
-- [Redundancy and Replication](https://www.educative.io/courses/grokking-the-system-design-interview/xV1qvj6PKkJ)
-- [CAP Theorem](https://www.educative.io/courses/grokking-the-system-design-interview/RMkqx1Egxqz)
+- Caching 
+  - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/caching.html) - gitbooks
+  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/3j6NnJrpp5p)
+  - [medium article](https://medium.com/system-designing-interviews/system-design-chapter-4-caching-b59a4cf83f10)
+  
+- Data Partitioning 
+  - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/sharding-or-data-partitioning.html) - gitbooks
+  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/mEN8lJXV1LA)
+  - [ScienceDirect post](https://www.sciencedirect.com/topics/computer-science/data-partitioning) 
 
+- Sharding
+  - [medium article](https://medium.com/system-designing-interviews/system-design-chapter-2-sharding-484960c18f6) 
+  - [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding) - digital ocean
+
+- Load Balancing
+  - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/load-balancing.html) - gitbooks
+  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/3jEwl04BL7Q)
+  - [medium article](https://medium.com/system-designing-interviews/system-design-chapter-3-load-balancing-e1c89148e37)
+
+- Indexes
+  - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/indexes.html) - gitbooks
+
+
+- Proxies
+  - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/proxies.html) - gitbooks
+
+- Queues
+  - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/queues.html) - gitbooks
+
+
+- Redundancy and Replication
+  - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/redundancy-and-replication.html) - gitbooks
+  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/xV1qvj6PKkJ)
+  - [medium post](https://medium.com/baseds/redundancy-and-replication-duplicating-in-a-distributed-system-7ab4322d7378#:~:text=Both%20of%20them%20involve%20creating,all%20of%20its%20other%20copies.)
+  
+
+- SQL vs NoSQL
+  - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/sql-vs-nosql.html) - gitbooks
+
+
+- CAP Theorem 
+  - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/cap-theorem.html) - gitbooks
+  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/RMkqx1Egxqz)
+  - [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
+
+
+- Consistent Hashing
+  - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/consistent-hashing.html) - gitbooks
+  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/B81vnyp0GpY)
+  - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing#:~:text=Consistent%20Hashing%20is%20a%20distributed,without%20affecting%20the%20overall%20system.)
+  - [detailed explanation](https://www.acodersjourney.com/system-design-interview-consistent-hashing/)
+  
+
+> ## [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
 
 
 ## Design Questions
 
 1. Designing Tiny URL
-   - [Educative io](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
+   - [Educative io post](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
    - [Geek for Geeks](https://www.geeksforgeeks.org/how-to-design-a-tiny-url-or-url-shortener/) post
    - [Medium](https://medium.com/better-programming/how-would-you-design-tinyurl-and-instagram-987dfc06cbe9) - Tiny URL and Instagram design
    - [Leetcode](https://leetcode.com/discuss/interview-question/124658/Design-a-URL-Shortener-(-TinyURL-)-System/) discussion
@@ -34,27 +81,29 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
    
    
 2. Designing Instagram
-   - [Educative io](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
-   
-   
+   - [Educative io post](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
+   - [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html)
+ 
+ 
 3. Designing Twitter
-   - [Educative io](https://www.educative.io/courses/grokking-the-system-design-interview/m2G48X18NDO)
+   - [Educative io post](https://www.educative.io/courses/grokking-the-system-design-interview/m2G48X18NDO)
+   - [gitbooks post](https://weifoo.gitbooks.io/systemdesign/content/system-design-examples/twitter.html)
       - [YouTube video explanation](https://www.youtube.com/watch?v=wYk0xPP_P_8&list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv&index=19)
    
    
 4. Designing Dropbox
    - [Educative io](https://www.educative.io/courses/grokking-the-system-design-interview/m22Gymjp4mG)
+   - [gitbooks post](https://weifoo.gitbooks.io/systemdesign/content/system-design-examples/dropbox.html)
      - [YouTube video explanation](https://www.youtube.com/watch?v=U0xTu6E2CT8&list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv&index=14)
 
    
 5. Designing YouTube or Netflix
-   - [Educative io](https://www.educative.io/courses/grokking-the-system-design-interview/xV26VjZ7yMl)
+   - [Educative io post](https://www.educative.io/courses/grokking-the-system-design-interview/xV26VjZ7yMl)
       - [YouTube video explanation](https://www.youtube.com/watch?v=psQzyFfsUGU&list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv&index=20)
 
    
-   
 6. Designing a Parking lot
-   - [Educative io](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z)  
+   - [Educative io post](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z)  
       - [YouTube video explanation](https://www.youtube.com/watch?v=tVRyb4HaHgw)
 
 
@@ -65,6 +114,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
    
 8. Designing Facebook Messenger
    - [medium article](https://medium.com/@eileen.code4fun/design-facebook-messenger-438d76639985)
+   
    
    
 ## Blogs 
@@ -78,7 +128,8 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 - [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
 - [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad)
 - [How to Develop Chat System Design like Facebook Messenger | Whatsapp](https://www.cronj.com/blog/how-to-develop-chat-system-design-like-facebook-messenger/)
-
+- [8 Steps to acing your next system design interview](https://www.hackerearth.com/blog/developers/8-steps-to-acing-your-next-system-design-interview/)
+- [best practices for building something like a news feed](https://www.quora.com/Software-Engineering-Best-Practices/What-are-the-best-practices-for-building-something-like-a-news-feed)
 
 
    
@@ -93,6 +144,10 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 **Understanding Google Search engine**
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
 
+
+**Understanding DynamoDB Architecture**
+- [Dynamo: Amazon’s Highly Available Key-value Store](https://github.com/NirmalSilwal/system-design-resources/blob/master/Amazon%20Dynamo%20db%20database%20design.pdf)
+- [Best Practices for Designing and Architecting with DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
 
 ## Video Tutorials on System Design
 - [Gaurav Sen playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - must do playlist
@@ -128,3 +183,4 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 
 ## System Design Cheatsheet
 1. [basic concepts](https://gist.github.com/vasanthk/485d1c25737e8e72759f#system-design-cheatsheet)
+2. [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
