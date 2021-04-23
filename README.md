@@ -184,3 +184,6 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 ## System Design Cheatsheet
 1. [basic concepts](https://gist.github.com/vasanthk/485d1c25737e8e72759f#system-design-cheatsheet)
 2. [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
+
+## System Design Template
+- [template here](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
