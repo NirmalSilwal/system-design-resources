@@ -187,3 +187,6 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 
 ## System Design Template
 - [template here](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+
+## Understanding Design Patterns
+- [design patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
