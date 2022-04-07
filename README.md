@@ -166,7 +166,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 - [Success in tech playlist](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) - Coding and System Design Interview Questions
 - [Think Software channel playlist](https://www.youtube.com/playlist?list=PLK8IOvtbwVsuYW8KovGg9o6dlhspym8O_) - Systems Design Interview Questions
 - [Scalability lecture by David Mellan Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
-
+- [Code Karle YouTube playlists](https://www.youtube.com/c/codeKarle/playlists) and their [website blogs](https://www.codekarle.com/)
 
 ## Tech Talk
 - [Facebook and memcached - Tech Talk](https://www.youtube.com/watch?v=UH7wkvcf0ys&t=283s)
