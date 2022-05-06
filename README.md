@@ -119,6 +119,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
    
 ## Blogs 
 - [High Scalability](http://highscalability.com/)
+- [The complete guide to System Design in 2022 by Educative.io](https://www.educative.io/blog/complete-guide-to-system-design)
 - [Medium](https://medium.com/system-design-blog) - system design concepts
 - [How Web Works](https://github.com/vasanthk/how-web-works)
 - [Hired In Tech](https://www.hiredintech.com/courses/system-design) - System Design for Tech Interviews
