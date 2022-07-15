@@ -191,6 +191,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 
 ## Understanding Design Patterns
 - [design patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [Refactoring guru design patterns](https://refactoring.guru/design-patterns)
 
 ## Notable github repo to understand concepts more
 - [system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture)
