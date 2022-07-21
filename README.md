@@ -170,6 +170,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 - [Scalability lecture by David Mellan Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
 - [Code Karle YouTube playlists](https://www.youtube.com/c/codeKarle/playlists) and their [website blogs](https://www.codekarle.com/)
 - [Design Patterns in Object Oriented Programming playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Christopher Okhravi
+- [Design Patterns by Sudo Code](https://www.youtube.com/c/sudoCODE/playlists) - Googler's suggestion
 
 ## Tech Talk
 - [Facebook and memcached - Tech Talk](https://www.youtube.com/watch?v=UH7wkvcf0ys&t=283s)
