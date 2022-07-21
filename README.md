@@ -153,6 +153,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 ## Video Tutorials on System Design
 - [Gaurav Sen playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - must do playlist
 - [Grokking the System Design Interview](https://www.youtube.com/playlist?list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
+- [Udit Agarwal low level designs, design patterns, system design videos](https://www.youtube.com/c/anomaly2104/playlists) - suggested by Googler :)
 - [Tech Dummies playlist](https://www.youtube.com/c/TechDummiesNarendraL/playlists)
   - [Redis system design - Distributed cache System design](https://www.youtube.com/watch?v=DUbEgNw-F9c&list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv&index=17) 
   - [S3 system design | cloud storage system design | Distributed cloud storage system design](https://www.youtube.com/watch?v=UmWtcgC96X8)
@@ -168,6 +169,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 - [Think Software channel playlist](https://www.youtube.com/playlist?list=PLK8IOvtbwVsuYW8KovGg9o6dlhspym8O_) - Systems Design Interview Questions
 - [Scalability lecture by David Mellan Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
 - [Code Karle YouTube playlists](https://www.youtube.com/c/codeKarle/playlists) and their [website blogs](https://www.codekarle.com/)
+- [Design Patterns in Object Oriented Programming playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Christopher Okhravi
 
 ## Tech Talk
 - [Facebook and memcached - Tech Talk](https://www.youtube.com/watch?v=UH7wkvcf0ys&t=283s)
