@@ -131,6 +131,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 - [How to Develop Chat System Design like Facebook Messenger | Whatsapp](https://www.cronj.com/blog/how-to-develop-chat-system-design-like-facebook-messenger/)
 - [8 Steps to acing your next system design interview](https://www.hackerearth.com/blog/developers/8-steps-to-acing-your-next-system-design-interview/)
 - [best practices for building something like a news feed](https://www.quora.com/Software-Engineering-Best-Practices/What-are-the-best-practices-for-building-something-like-a-news-feed)
+- [5 Beginner-Friendly SQL Questions](https://medium.com/learning-sql/be-comfortable-in-any-data-analyst-interview-with-these-5-beginner-friendly-sql-questions-1ba5f9eef77)
 
 
    
