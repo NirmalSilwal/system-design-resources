@@ -14,12 +14,12 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 
 - Caching 
   - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/caching.html) - gitbooks
-  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/3j6NnJrpp5p)
+  - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/caching)
   - [medium article](https://medium.com/system-designing-interviews/system-design-chapter-4-caching-b59a4cf83f10)
   
 - Data Partitioning 
   - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/sharding-or-data-partitioning.html) - gitbooks
-  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/mEN8lJXV1LA)
+  - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/data-partitioning)
   - [ScienceDirect post](https://www.sciencedirect.com/topics/computer-science/data-partitioning) 
 
 - Sharding
@@ -28,7 +28,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 
 - Load Balancing
   - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/load-balancing.html) - gitbooks
-  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/3jEwl04BL7Q)
+  - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/load-balancing)
   - [medium article](https://medium.com/system-designing-interviews/system-design-chapter-3-load-balancing-e1c89148e37)
 
 - Indexes
@@ -44,7 +44,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 
 - Redundancy and Replication
   - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/redundancy-and-replication.html) - gitbooks
-  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/xV1qvj6PKkJ)
+  - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/redundancy-and-replication)
   - [medium post](https://medium.com/baseds/redundancy-and-replication-duplicating-in-a-distributed-system-7ab4322d7378#:~:text=Both%20of%20them%20involve%20creating,all%20of%20its%20other%20copies.)
   
 
@@ -54,13 +54,13 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 
 - CAP Theorem 
   - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/cap-theorem.html) - gitbooks
-  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/RMkqx1Egxqz)
+  - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/cap-theorem)
   - [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
 
 
 - Consistent Hashing
   - [brief explanation](https://weifoo.gitbooks.io/systemdesign/content/chapter1/consistent-hashing.html) - gitbooks
-  - [educative post](https://www.educative.io/courses/grokking-the-system-design-interview/B81vnyp0GpY)
+  - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/consistent-hashing-new)
   - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing#:~:text=Consistent%20Hashing%20is%20a%20distributed,without%20affecting%20the%20overall%20system.)
   - [detailed explanation](https://www.acodersjourney.com/system-design-interview-consistent-hashing/)
   
@@ -71,7 +71,7 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
 ## Design Questions
 
 1. Designing Tiny URL
-   - [Educative io post](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
+   - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-a-url-shortening-service-like-tinyurl)
    - [Geek for Geeks](https://www.geeksforgeeks.org/how-to-design-a-tiny-url-or-url-shortener/) post
    - [Medium](https://medium.com/better-programming/how-would-you-design-tinyurl-and-instagram-987dfc06cbe9) - Tiny URL and Instagram design
    - [Leetcode](https://leetcode.com/discuss/interview-question/124658/Design-a-URL-Shortener-(-TinyURL-)-System/) discussion
@@ -81,29 +81,29 @@ Let's first learn **Basic Concepts**  for *designing higly scalable data intensi
    
    
 2. Designing Instagram
-   - [Educative io post](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
+   - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-instagram)
    - [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html)
  
  
 3. Designing Twitter
-   - [Educative io post](https://www.educative.io/courses/grokking-the-system-design-interview/m2G48X18NDO)
+   - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-twitter)
    - [gitbooks post](https://weifoo.gitbooks.io/systemdesign/content/system-design-examples/twitter.html)
       - [YouTube video explanation](https://www.youtube.com/watch?v=wYk0xPP_P_8&list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv&index=19)
    
    
 4. Designing Dropbox
-   - [Educative io](https://www.educative.io/courses/grokking-the-system-design-interview/m22Gymjp4mG)
+   - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-dropbox)
    - [gitbooks post](https://weifoo.gitbooks.io/systemdesign/content/system-design-examples/dropbox.html)
      - [YouTube video explanation](https://www.youtube.com/watch?v=U0xTu6E2CT8&list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv&index=14)
 
    
 5. Designing YouTube or Netflix
-   - [Educative io post](https://www.educative.io/courses/grokking-the-system-design-interview/xV26VjZ7yMl)
+   - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-youtube-or-netflix)
       - [YouTube video explanation](https://www.youtube.com/watch?v=psQzyFfsUGU&list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv&index=20)
 
    
 6. Designing a Parking lot
-   - [Educative io post](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z)  
+   - [Design Gurus lesson](https://www.designgurus.io/course-play/grokking-the-object-oriented-design-interview/doc/design-a-parking-lot)  
       - [YouTube video explanation](https://www.youtube.com/watch?v=tVRyb4HaHgw)
 
 
